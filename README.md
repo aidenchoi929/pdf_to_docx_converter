@@ -10,7 +10,7 @@ How to use?
   - Example
     ![Screenshot 2024-09-06 at 12 32 15](https://github.com/user-attachments/assets/a13a31a8-6385-4f45-b97c-2dcc27ec9aed)
 
-  - Application flowchard
+  - Application flowchart
     ![Flowchart](https://github.com/user-attachments/assets/aab02362-24e6-45ae-be3c-2e8eb619b1cf)
 
 
